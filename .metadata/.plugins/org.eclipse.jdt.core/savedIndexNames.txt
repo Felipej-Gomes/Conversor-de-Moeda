@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\Users\Felipe Gomes\Desktop\CONVERSOR DE MOEDAS\.metadata\.plugins\org.eclipse.jdt.core
+1865708524.index
+1789005143.index
+2210288955.index
