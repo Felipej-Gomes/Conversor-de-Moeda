@@ -1,0 +1,5 @@
+package Alura.ConversorDeMoedas;
+
+public class ExchangeRateAPI {
+
+}

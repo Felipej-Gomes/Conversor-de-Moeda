@@ -136,3 +136,7 @@
 2024-10-22 16:04:19,734 [Worker-7: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 5 sec
 2024-10-22 16:04:21,404 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Felipe Gomes\Desktop\CONVERSOR DE MOEDAS\ConversorDeMoedas\src\main\resources
 2024-10-22 16:04:21,414 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Felipe Gomes\Desktop\CONVERSOR DE MOEDAS\ConversorDeMoedas\src\test\resources
+2024-10-22 16:42:13,382 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Felipe Gomes\Desktop\CONVERSOR DE MOEDAS\ConversorDeMoedas\src\main\resources
+2024-10-22 16:42:13,404 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Felipe Gomes\Desktop\CONVERSOR DE MOEDAS\ConversorDeMoedas\src\test\resources
+2024-10-22 16:44:59,422 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Felipe Gomes\Desktop\CONVERSOR DE MOEDAS\ConversorDeMoedas\src\main\resources
+2024-10-22 16:44:59,428 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Felipe Gomes\Desktop\CONVERSOR DE MOEDAS\ConversorDeMoedas\src\test\resources
