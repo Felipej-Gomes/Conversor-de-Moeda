@@ -6,11 +6,14 @@ import java.net.http.HttpRequest;
 import java.net.http.HttpResponse;
 import org.json.JSONObject;
 
+import com.google.gson.Gson;
+
 public class ExchangeRateAPI {
+	
     public static void main(String[] args) {
         try {
             // Substitua pela sua chave da API
-            String apiKey = "YOUR-API-KEY";
+            String apiKey = "a52ca104b5dbebc4affc764a";
             String url = "https://v6.exchangerate-api.com/v6/" + apiKey + "/latest/USD";
 
             // Criando o cliente HTTP
@@ -18,6 +21,8 @@ public class ExchangeRateAPI {
             HttpRequest request = HttpRequest.newBuilder()
                     .uri(URI.create(url))
                     .build();
+            
+        
 
             // Fazendo a solicitação e obtendo a resposta
             HttpResponse<String> response = client.send(request, HttpResponse.BodyHandlers.ofString());
